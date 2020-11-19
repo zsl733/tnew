@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tnew:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/tnew_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tnew/web/Web" />
+    </root>
+  </artifact>
+</component>
